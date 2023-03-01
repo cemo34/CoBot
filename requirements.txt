@@ -1,0 +1,7 @@
+ta-lib
+websocket-client==1.5.1
+Flask==2.2.3
+schedule
+pandas
+numpy==1.24.2
+python-binance
